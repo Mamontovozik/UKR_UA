@@ -1,4 +1,4 @@
-Russian localization of Stable Diffusion webui
+UKR localization of Stable Diffusion webui
 
 # Скріпт для обробки відсутніх моделей
 
