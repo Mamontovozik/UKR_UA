@@ -1,6 +1,6 @@
 Russian localization of Stable Diffusion webui
 
-# Скрипт для добавки отсутствующих ключей
+# Скріпт для обробки відсутніх моделей
 
 ```python
 import json
